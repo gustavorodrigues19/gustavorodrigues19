@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I´m fullstack developer living in Brazil. As well, I'm full stack developer living in Brazil. As well, I'm working remotely for international companies.
+My name is Gustavo Rodrigues and I´m fullstack developer living in Brazil. As well, I'm working remotely for international companies.
 
 Love to solve problems with technology ❤️
 
