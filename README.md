@@ -2,7 +2,7 @@
 
 My name is Gustavo Rodrigues and I´m fullstack developer living in Brazil. As well, I'm working remotely for international companies.
 
-Love to solve problems with technology ❤️
+Love to solve problems complex problems ❤️
 
 "Whether you think you can or you can't you're right". Henry Ford
 
