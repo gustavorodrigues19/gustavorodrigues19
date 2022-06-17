@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Gustavo Rodrigues and I´m fullstack developer living in Portugal. As well, I'm working remotely for international companies.
+My name is Gustavo Rodrigues and I´m fullstack developer living in Portugal and to work remotely for companies around the globe.
 
-Love to solve problems complex problems ❤️
+Love to solve problems with technology ❤️
 
 "Whether you think you can or you can't you're right". Henry Ford
 
