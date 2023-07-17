@@ -6,11 +6,6 @@ Love to solve problems with technology ❤️
 
 "Whether you think you can or you can't you're right". Henry Ford
 
-🗣️ Speaking:
-🇧🇷 🇵🇹 Portuguese
-🇺🇲 🇬🇧 English
-🇪🇦 Spanish
-
 Contact-me on:
 [LinkedIn](https://www.linkedin.com/in/gustavorodrigues-dev/)
 
