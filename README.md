@@ -5,7 +5,7 @@ Currently, I work remotely, collaborating with companies worldwide. <br/>
 Beyond my development expertise, I am actively involved as a content creator, mentor, and teacher.
 
 ### 🔎   Find me at:
-  <a href="https://www.youtube.com/@gustavo.crodrigues" rel="nofollow">
+  <a href="https://www.youtube.com/@gustavo.crodrigues" rel="nofollow" style="text-decoration: none;">
     <img
       src="https://img.shields.io/youtube/channel/subscribers/UCqZZCUg2w-7gSkiobwTc2Nw"
       alt="youtube"
@@ -14,7 +14,7 @@ Beyond my development expertise, I am actively involved as a content creator, me
       style="max-width: 100%"
     />
   </a>
-  <a href="https://www.linkedin.com/in/gustavocrodrigues" rel="nofollow">
+  <a href="https://www.linkedin.com/in/gustavocrodrigues" rel="nofollow" style="text-decoration: none;">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="linkedin"
@@ -37,7 +37,7 @@ Beyond my development expertise, I am actively involved as a content creator, me
 
 ### 💻  Technologies
 <p align="left" dir="auto">
-    <a href="https://www.w3.org/html/" rel="nofollow">
+    <a href="https://www.w3.org/html/" rel="nofollow" style="text-decoration: none;">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
