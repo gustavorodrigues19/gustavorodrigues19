@@ -94,15 +94,6 @@ Beyond my development expertise, I am actively involved as a content creator, me
       style="max-width: 100%"
     />
   </a>
-    <a href="https://tailwindcss.com/" rel="nofollow">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
-      alt="express"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
   <a href="https://getbootstrap.com" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -129,9 +120,6 @@ Beyond my development expertise, I am actively involved as a content creator, me
       height="40"
       style="max-width: 100%"
     />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
